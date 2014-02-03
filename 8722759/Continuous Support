@@ -231,5 +231,6 @@ Support needs to determine or access to:
 1/31.2 - Include of change log, escape velocity, metrics section
 2/1.1 - Added detail to a variety of sections
 2/1.2 - Added extensive detail to expand on the question of 'what is support?', credits; added a ton of redundancies, the <remove> tag
-2/2 - added preamble, some quotes, the <drupal> tag (also to be removed per winmillwill's suggestions)
+2/2.1 - added preamble, some quotes, the <drupal> tag (also to be removed per winmillwill's suggestions)
+2/2.2 - forked continuous from initial support doc to emphasize what continuous means
 
